@@ -40,14 +40,6 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
-   },
-   "inactivate": {
-      "response":"MD16132",
-      "statusCode":0,
-      "statusMessage":"Customer Inactivate successfully",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
    }
 
 }
